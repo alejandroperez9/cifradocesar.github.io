@@ -1,4 +1,3 @@
-# ¡EN DESARROLLO!
 # __CIFRADO_CESAR_JS__
 
 <img style="margin-top: 40px;" src="https://tenor.com/es/view/julius-caesar-1953-marlon-brando-mark-antony-gif-17964744.gif" align="right" width="200">
