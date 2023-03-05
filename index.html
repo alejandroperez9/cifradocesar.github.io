@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cifrado César</title>
+    <link rel="icon" href="assets/img/cesar.png" type="ima/icon type">
+    <link href="assets/css/index.css" rel="stylesheet " />
+    <script src="assets/js/index.js" type="text/javascript" defer></script>
+</head>
+<body>
+    <main>
+        <h1>Cifrado César.</h1>
+        <form id="cifrado" autocomplete="off">
+            <input id="input-original" spellcheck="false" placeholder="Texto a Codificar: " type="text" name="text">
+        </form>
+        <div id="Codificación: "></div>
+        <div class="rango">
+            <input id="rango" type="range" value="10" min="1" max="20" oninput="this.nextElementSibling.value = this.value">
+            <output>10</output>
+        </div>
+    </main>
+</body>
+</html>
