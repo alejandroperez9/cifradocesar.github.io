@@ -38,3 +38,7 @@ const EJEMPLO = {
     Txt_codificado: "GHIJ",
 }
 ```  
+
+CC BY-NC-SA 3.0 ES Alejandro Pérez
+
+![CC](/assets/img/CC-BY-NC-SA-4.0.jpg)
